@@ -31,6 +31,9 @@ namespace ArraysProgramming1
 
             Console.WriteLine("Highest level: " + partyLevels.Max());
 
+            int minValue = partyLevels.Min();
+            Console.WriteLine("Lowest Level: " + minValue);
+
             Console.ReadKey();
 
         }
