@@ -24,13 +24,21 @@ namespace ArraysProgramming1
 
             LevelUpPartyMember("Member2");
 
+            Console.WriteLine(partyLevels[0]);
+            Console.WriteLine(partyLevels[1]);
+            Console.WriteLine(partyLevels[2]);
+            Console.WriteLine(partyLevels[3]);
+
+            Console.WriteLine("Highest level: " + partyLevels.Max());
+
             Console.ReadKey();
 
         }
 
         static void LevelUpPartyMember(string memberName)
         {
-            int indexOfPartyMember = Array.IndexOf(partyLevels, memberName);
+            int indexOfPartyMember = Array.IndexOf(partyNames, memberName);
+
             partyLevels[indexOfPartyMember] += 1;
           
         }
