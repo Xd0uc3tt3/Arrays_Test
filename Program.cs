@@ -34,7 +34,17 @@ namespace ArraysProgramming1
             int minValue = partyLevels.Min();
             Console.WriteLine("Lowest Level: " + minValue);
 
+            Array.Sort(partyNames);
+
+            Console.WriteLine(partyNames[0]);
+            Console.WriteLine(partyNames[1]);
+            Console.WriteLine(partyNames[2]);
+            Console.WriteLine(partyNames[3]);
+
+
             Console.ReadKey();
+
+          
 
         }
 
