@@ -1,0 +1,8 @@
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\bin\Debug\ArraysProgramming1.exe.config
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\bin\Debug\ArraysProgramming1.exe
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\bin\Debug\ArraysProgramming1.pdb
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\obj\Debug\ArraysProgramming1.csproj.AssemblyReference.cache
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\obj\Debug\ArraysProgramming1.csproj.CoreCompileInputs.cache
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\obj\Debug\ArraysProgramming1.exe
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\obj\Debug\ArraysProgramming1.pdb
+C:\XandersProjects\Arrays\ArraysProgramming1\ArraysProgramming1\obj\Debug\ArraysProgramming1.exe.config
